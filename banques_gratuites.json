@@ -1,0 +1,858 @@
+{
+ "updated": "2026-11-18",
+ "banks": [],
+ "items": [
+  {
+   "to": "DZ",
+   "bank": "BDL (Banque de Développement Local)"
+  },
+  {
+   "to": "DZ",
+   "bank": "BNA (Banque Nationale d'Algérie)"
+  },
+  {
+   "to": "DZ",
+   "bank": "BNP Paribas El Djazaïr"
+  },
+  {
+   "to": "DZ",
+   "bank": "CPA (Crédit Populaire d'Algérie)"
+  },
+  {
+   "to": "DZ",
+   "bank": "Société Générale Algérie"
+  },
+  {
+   "to": "DE",
+   "bank": "Commerzbank"
+  },
+  {
+   "to": "DE",
+   "bank": "Deutsche Bank"
+  },
+  {
+   "to": "DE",
+   "bank": "HypoVereinsbank (UniCredit)"
+  },
+  {
+   "to": "DE",
+   "bank": "Vr bank südpfalz"
+  },
+  {
+   "to": "SA",
+   "bank": "Al Rajhi Bank"
+  },
+  {
+   "to": "SA",
+   "bank": "Alinma Bank"
+  },
+  {
+   "to": "SA",
+   "bank": "Arab National Bank"
+  },
+  {
+   "to": "SA",
+   "bank": "Bank AlJazira"
+  },
+  {
+   "to": "SA",
+   "bank": "Bank Albilad"
+  },
+  {
+   "to": "SA",
+   "bank": "Banque Saudi Fransi"
+  },
+  {
+   "to": "SA",
+   "bank": "Riyad Bank"
+  },
+  {
+   "to": "SA",
+   "bank": "SABB (Saudi Awwal Bank)"
+  },
+  {
+   "to": "SA",
+   "bank": "SNB — Saudi National Bank"
+  },
+  {
+   "to": "SA",
+   "bank": "Saudi Investment Bank"
+  },
+  {
+   "to": "AU",
+   "bank": "ANZ"
+  },
+  {
+   "to": "AU",
+   "bank": "Bankwest"
+  },
+  {
+   "to": "AU",
+   "bank": "Heritage Bank"
+  },
+  {
+   "to": "AU",
+   "bank": "Macquarie"
+  },
+  {
+   "to": "AU",
+   "bank": "Me Bank"
+  },
+  {
+   "to": "AU",
+   "bank": "Westpac"
+  },
+  {
+   "to": "AT",
+   "bank": "BKS Bank"
+  },
+  {
+   "to": "AT",
+   "bank": "SPAR (First Data)"
+  },
+  {
+   "to": "AT",
+   "bank": "VKB Bank"
+  },
+  {
+   "to": "BD",
+   "bank": "Agrani Bank"
+  },
+  {
+   "to": "BD",
+   "bank": "Bank Asia"
+  },
+  {
+   "to": "BD",
+   "bank": "HSBC"
+  },
+  {
+   "to": "BD",
+   "bank": "Prime Bank"
+  },
+  {
+   "to": "BD",
+   "bank": "Pubali Bank"
+  },
+  {
+   "to": "BD",
+   "bank": "Sonali Bank"
+  },
+  {
+   "to": "BD",
+   "bank": "Southeast Bank"
+  },
+  {
+   "to": "BE",
+   "bank": "BNP Paribas Fortis"
+  },
+  {
+   "to": "BE",
+   "bank": "Bancontact (Batopin)"
+  },
+  {
+   "to": "BE",
+   "bank": "Belfius"
+  },
+  {
+   "to": "BE",
+   "bank": "ING"
+  },
+  {
+   "to": "BE",
+   "bank": "KBC"
+  },
+  {
+   "to": "BZ",
+   "bank": "Atlantic Bank"
+  },
+  {
+   "to": "BO",
+   "bank": "Banco Bisa"
+  },
+  {
+   "to": "BO",
+   "bank": "Banco Fie"
+  },
+  {
+   "to": "BO",
+   "bank": "Banco Unión"
+  },
+  {
+   "to": "BR",
+   "bank": "Banco do Brasil"
+  },
+  {
+   "to": "BR",
+   "bank": "Bradesco"
+  },
+  {
+   "to": "BR",
+   "bank": "HSBC"
+  },
+  {
+   "to": "BR",
+   "bank": "Itau"
+  },
+  {
+   "to": "KH",
+   "bank": "Shinhan Bank"
+  },
+  {
+   "to": "CA",
+   "bank": "Allpoint"
+  },
+  {
+   "to": "CL",
+   "bank": "Banco Internacional"
+  },
+  {
+   "to": "CN",
+   "bank": "China Construction Bank"
+  },
+  {
+   "to": "CN",
+   "bank": "City Bank"
+  },
+  {
+   "to": "CN",
+   "bank": "ICBC"
+  },
+  {
+   "to": "CR",
+   "bank": "BCR"
+  },
+  {
+   "to": "CR",
+   "bank": "Banco Nacional"
+  },
+  {
+   "to": "CI",
+   "bank": "BICICI"
+  },
+  {
+   "to": "CI",
+   "bank": "Banque Atlantique"
+  },
+  {
+   "to": "CI",
+   "bank": "Ecobank"
+  },
+  {
+   "to": "CI",
+   "bank": "NSIA Banque"
+  },
+  {
+   "to": "CI",
+   "bank": "Société Générale Côte d'Ivoire (SGBCI)"
+  },
+  {
+   "to": "HR",
+   "bank": "Imex banka"
+  },
+  {
+   "to": "HR",
+   "bank": "Kent Bank"
+  },
+  {
+   "to": "DK",
+   "bank": "Nokas"
+  },
+  {
+   "to": "DK",
+   "bank": "Nordea"
+  },
+  {
+   "to": "EG",
+   "bank": "Commercial International Bank"
+  },
+  {
+   "to": "EG",
+   "bank": "HSBC Egypt"
+  },
+  {
+   "to": "EG",
+   "bank": "National Bank of Egypt"
+  },
+  {
+   "to": "EG",
+   "bank": "QNB Alahli"
+  },
+  {
+   "to": "EC",
+   "bank": "Banco Boliviariano"
+  },
+  {
+   "to": "EC",
+   "bank": "Pichincha"
+  },
+  {
+   "to": "ES",
+   "bank": "Abanca"
+  },
+  {
+   "to": "ES",
+   "bank": "Deutsche Bank España"
+  },
+  {
+   "to": "ES",
+   "bank": "Eurocaja Rural"
+  },
+  {
+   "to": "ES",
+   "bank": "Unicaja"
+  },
+  {
+   "to": "US",
+   "bank": "Sun East Credit Union"
+  },
+  {
+   "to": "FR",
+   "bank": "BNP Paribas"
+  },
+  {
+   "to": "FR",
+   "bank": "Credit Agricole"
+  },
+  {
+   "to": "FR",
+   "bank": "Crédit Mutuel"
+  },
+  {
+   "to": "FR",
+   "bank": "LCL"
+  },
+  {
+   "to": "FR",
+   "bank": "La Banque Postale"
+  },
+  {
+   "to": "FR",
+   "bank": "Societe Generale"
+  },
+  {
+   "to": "GA",
+   "bank": "BICIG"
+  },
+  {
+   "to": "GA",
+   "bank": "Ecobank"
+  },
+  {
+   "to": "GE",
+   "bank": "Bank of Georgia"
+  },
+  {
+   "to": "GE",
+   "bank": "TBC Bank"
+  },
+  {
+   "to": "HN",
+   "bank": "Banco Atlantida"
+  },
+  {
+   "to": "HK",
+   "bank": "Bank Of China"
+  },
+  {
+   "to": "HK",
+   "bank": "HSBC"
+  },
+  {
+   "to": "HK",
+   "bank": "Hang Seng Bank"
+  },
+  {
+   "to": "HU",
+   "bank": "CIB Bank"
+  },
+  {
+   "to": "HU",
+   "bank": "K&H Bank"
+  },
+  {
+   "to": "HU",
+   "bank": "Raiffeisen Bank"
+  },
+  {
+   "to": "HU",
+   "bank": "UniCredit Bank"
+  },
+  {
+   "to": "IN",
+   "bank": "Andhra Bank"
+  },
+  {
+   "to": "IN",
+   "bank": "Bank of Baroda (BOB)"
+  },
+  {
+   "to": "IN",
+   "bank": "Canara Bank"
+  },
+  {
+   "to": "IN",
+   "bank": "Indian Overseas Bank (IOB)"
+  },
+  {
+   "to": "IN",
+   "bank": "Syndicate Bank"
+  },
+  {
+   "to": "IN",
+   "bank": "Yes Bank"
+  },
+  {
+   "to": "ID",
+   "bank": "BNI"
+  },
+  {
+   "to": "ID",
+   "bank": "BRI"
+  },
+  {
+   "to": "ID",
+   "bank": "BTN"
+  },
+  {
+   "to": "ID",
+   "bank": "CIMB"
+  },
+  {
+   "to": "ID",
+   "bank": "Danamo"
+  },
+  {
+   "to": "ID",
+   "bank": "NIAGA"
+  },
+  {
+   "to": "ID",
+   "bank": "PermataBank"
+  },
+  {
+   "to": "IT",
+   "bank": "BNL (BNP Paribas)"
+  },
+  {
+   "to": "IT",
+   "bank": "BPER Banca"
+  },
+  {
+   "to": "IT",
+   "bank": "Banca Monte dei Paschi di Siena"
+  },
+  {
+   "to": "IT",
+   "bank": "Banca Popolare di Sondrio"
+  },
+  {
+   "to": "IT",
+   "bank": "Banco BPM"
+  },
+  {
+   "to": "IT",
+   "bank": "Crédit Agricole Italia"
+  },
+  {
+   "to": "IT",
+   "bank": "Poste Italiane (Postamat)"
+  },
+  {
+   "to": "IT",
+   "bank": "UniCredit"
+  },
+  {
+   "to": "JP",
+   "bank": "Aeon"
+  },
+  {
+   "to": "KZ",
+   "bank": "Halyk Bank"
+  },
+  {
+   "to": "KE",
+   "bank": "DTB"
+  },
+  {
+   "to": "KE",
+   "bank": "National Bank"
+  },
+  {
+   "to": "KE",
+   "bank": "Stanbic Bank"
+  },
+  {
+   "to": "KG",
+   "bank": "Bai-Tushum"
+  },
+  {
+   "to": "KG",
+   "bank": "M Bank"
+  },
+  {
+   "to": "KG",
+   "bank": "Optima Bank"
+  },
+  {
+   "to": "MG",
+   "bank": "BNI"
+  },
+  {
+   "to": "MY",
+   "bank": "Aboa Bank"
+  },
+  {
+   "to": "MY",
+   "bank": "Affin Bank"
+  },
+  {
+   "to": "MY",
+   "bank": "BSN Bank"
+  },
+  {
+   "to": "MY",
+   "bank": "CIMB"
+  },
+  {
+   "to": "MY",
+   "bank": "Maybank"
+  },
+  {
+   "to": "MY",
+   "bank": "RHB Bank"
+  },
+  {
+   "to": "MV",
+   "bank": "Habib Bank (HBL)"
+  },
+  {
+   "to": "MV",
+   "bank": "Maldives Islamic Bank (MIB)"
+  },
+  {
+   "to": "MU",
+   "bank": "MCB Mauritius Commercial Bank"
+  },
+  {
+   "to": "ME",
+   "bank": "Universal Capital Bank (UCB)"
+  },
+  {
+   "to": "ME",
+   "bank": "Ziraat Bank"
+  },
+  {
+   "to": "NI",
+   "bank": "BAC"
+  },
+  {
+   "to": "NO",
+   "bank": "DNB"
+  },
+  {
+   "to": "NO",
+   "bank": "Handelsbanken"
+  },
+  {
+   "to": "NO",
+   "bank": "Nordea"
+  },
+  {
+   "to": "NO",
+   "bank": "SpareBank 1"
+  },
+  {
+   "to": "NZ",
+   "bank": "Bank of New Zealand (BNZ)"
+  },
+  {
+   "to": "NZ",
+   "bank": "HSBC"
+  },
+  {
+   "to": "NZ",
+   "bank": "Kiwibank"
+  },
+  {
+   "to": "NZ",
+   "bank": "NZ Bank"
+  },
+  {
+   "to": "NZ",
+   "bank": "WBC"
+  },
+  {
+   "to": "NZ",
+   "bank": "Westpac"
+  },
+  {
+   "to": "UG",
+   "bank": "DTB"
+  },
+  {
+   "to": "PE",
+   "bank": "BCP"
+  },
+  {
+   "to": "PE",
+   "bank": "Banco de la Nación"
+  },
+  {
+   "to": "PE",
+   "bank": "Multi Red"
+  },
+  {
+   "to": "PH",
+   "bank": "HSBC"
+  },
+  {
+   "to": "PT",
+   "bank": "BPI"
+  },
+  {
+   "to": "PT",
+   "bank": "Banco CTT"
+  },
+  {
+   "to": "CZ",
+   "bank": "Fio banka"
+  },
+  {
+   "to": "CZ",
+   "bank": "Komerční banka"
+  },
+  {
+   "to": "GB",
+   "bank": "Barclays"
+  },
+  {
+   "to": "GB",
+   "bank": "HSBC"
+  },
+  {
+   "to": "GB",
+   "bank": "Lloyds Bank"
+  },
+  {
+   "to": "GB",
+   "bank": "NatWest"
+  },
+  {
+   "to": "GB",
+   "bank": "Nationwide"
+  },
+  {
+   "to": "GB",
+   "bank": "Santander"
+  },
+  {
+   "to": "RW",
+   "bank": "GT Bank"
+  },
+  {
+   "to": "RW",
+   "bank": "GTCO"
+  },
+  {
+   "to": "SV",
+   "bank": "Banco Atlantida"
+  },
+  {
+   "to": "SV",
+   "bank": "Banco Hipotecario"
+  },
+  {
+   "to": "SV",
+   "bank": "Bank of America"
+  },
+  {
+   "to": "SN",
+   "bank": "BIS"
+  },
+  {
+   "to": "SN",
+   "bank": "BNDE"
+  },
+  {
+   "to": "RS",
+   "bank": "FiBank"
+  },
+  {
+   "to": "RS",
+   "bank": "Ibank"
+  },
+  {
+   "to": "SG",
+   "bank": "UOB"
+  },
+  {
+   "to": "SI",
+   "bank": "Addiko Bank"
+  },
+  {
+   "to": "SI",
+   "bank": "NLB"
+  },
+  {
+   "to": "SI",
+   "bank": "UniCredit Bank"
+  },
+  {
+   "to": "LK",
+   "bank": "Bank of Ceylon (BOC)"
+  },
+  {
+   "to": "LK",
+   "bank": "People's Bank"
+  },
+  {
+   "to": "SE",
+   "bank": "Bankomat (réseau partagé)"
+  },
+  {
+   "to": "SE",
+   "bank": "Handelsbanken"
+  },
+  {
+   "to": "SE",
+   "bank": "Nordea"
+  },
+  {
+   "to": "SE",
+   "bank": "SEB"
+  },
+  {
+   "to": "SE",
+   "bank": "Swedbank"
+  },
+  {
+   "to": "CH",
+   "bank": "Banque cantonale (Kantonalbank)"
+  },
+  {
+   "to": "CH",
+   "bank": "Migros Bank"
+  },
+  {
+   "to": "CH",
+   "bank": "PostFinance"
+  },
+  {
+   "to": "CH",
+   "bank": "Raiffeisen"
+  },
+  {
+   "to": "CH",
+   "bank": "UBS"
+  },
+  {
+   "to": "SR",
+   "bank": "Guyana Scotiabank"
+  },
+  {
+   "to": "SR",
+   "bank": "Republic Bank"
+  },
+  {
+   "to": "TJ",
+   "bank": "ActivBank"
+  },
+  {
+   "to": "TJ",
+   "bank": "Eskhata Bank"
+  },
+  {
+   "to": "TJ",
+   "bank": "First Microfinance Bank"
+  },
+  {
+   "to": "TJ",
+   "bank": "Halyk Bank"
+  },
+  {
+   "to": "TW",
+   "bank": "Cathay Bank"
+  },
+  {
+   "to": "TW",
+   "bank": "Chang HWA Bank"
+  },
+  {
+   "to": "TW",
+   "bank": "SinoPac"
+  },
+  {
+   "to": "TW",
+   "bank": "Taiwan cooperative bank"
+  },
+  {
+   "to": "TZ",
+   "bank": "DTB"
+  },
+  {
+   "to": "TZ",
+   "bank": "Eco Bank Pan Africa"
+  },
+  {
+   "to": "TZ",
+   "bank": "Stanbic Bank"
+  },
+  {
+   "to": "TN",
+   "bank": "Al Baraka Bank"
+  },
+  {
+   "to": "TN",
+   "bank": "TSB (Tunisian Saudi Bank)"
+  },
+  {
+   "to": "TR",
+   "bank": "DenizBank"
+  },
+  {
+   "to": "TR",
+   "bank": "Halkbank"
+  },
+  {
+   "to": "TR",
+   "bank": "T.C. Ziraat Bankasi"
+  },
+  {
+   "to": "VN",
+   "bank": "AB Bank"
+  },
+  {
+   "to": "VN",
+   "bank": "ACB Bank"
+  },
+  {
+   "to": "VN",
+   "bank": "BBVA"
+  },
+  {
+   "to": "VN",
+   "bank": "BaoViet"
+  },
+  {
+   "to": "VN",
+   "bank": "Eximbank"
+  },
+  {
+   "to": "VN",
+   "bank": "Saigon Bank"
+  },
+  {
+   "to": "VN",
+   "bank": "VP Bank"
+  },
+  {
+   "to": "VN",
+   "bank": "Vietbank"
+  },
+  {
+   "to": "VN",
+   "bank": "Vietbank Pay"
+  }
+ ]
+}
